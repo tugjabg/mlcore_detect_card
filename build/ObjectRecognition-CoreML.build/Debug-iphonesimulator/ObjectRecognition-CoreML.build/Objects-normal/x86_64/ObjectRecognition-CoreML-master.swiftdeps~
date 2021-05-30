@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.4 (swiftlang-1205.0.26.9 clang-1205.0.19.55)"
+options: "a8cc8c0272dc70061e42e4e40ada6a13"
+build_time: [1622344213, 79845000]
+inputs:
+  "/Users/nguyenxuannam/Desktop/ObjectRecognition-CoreML/ObjectRecognition-CoreML/ViewController.swift": [1622344213, 11957050]
+  "/Users/nguyenxuannam/Desktop/ObjectRecognition-CoreML/ObjectRecognition-CoreML/AppDelegate.swift": [1622343022, 934537132]
+  "/Users/nguyenxuannam/Desktop/ObjectRecognition-CoreML/build/ObjectRecognition-CoreML.build/Debug-iphonesimulator/ObjectRecognition-CoreML.build/DerivedSources/CoreMLGenerated/Inceptionv3/Inceptionv3.swift": [1622343362, 494392067]
+  "/Users/nguyenxuannam/Desktop/ObjectRecognition-CoreML/build/ObjectRecognition-CoreML.build/Debug-iphonesimulator/ObjectRecognition-CoreML.build/DerivedSources/CoreMLGenerated/best/best.swift": [1622343362, 465774879]

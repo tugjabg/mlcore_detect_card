@@ -1,0 +1,6 @@
+Target dependency graph (3 targets)
+ObjectRecognition-CoreML in ObjectRecognition-CoreML
+ObjectRecognition-CoreMLTests in ObjectRecognition-CoreML, depends on:
+ObjectRecognition-CoreML in ObjectRecognition-CoreML (explicit)
+ObjectRecognition-CoreMLUITests in ObjectRecognition-CoreML, depends on:
+ObjectRecognition-CoreML in ObjectRecognition-CoreML (explicit)
